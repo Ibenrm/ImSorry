@@ -1,0 +1,43 @@
+{
+    "count": 1,
+    "nama": "Default",
+    "NotTarget": {
+        "Title": "Bukan Kamu",
+        "Text": "Sepertinya Bukan Kamu deh:(",
+        "Type": "close",
+        "imgsrc": "https://media.tenor.com/v82ifjvW8XIAAAAM/aham-sithi-peace-goma-sithi.gif"
+    },
+    "1": {
+        "Title": "Hai Kamu!",
+        "Text": "Siapa Kamu ?",
+        "Question": true,
+        "Target": "Desmita",
+        "Type": "continue",
+        "imgsrc": "https://i.ibb.co/4VBkZwn/bunga.gif"
+    },
+    "2": {
+        "Title": "Hai {username}",
+        "Text": "Maafin Aku yah hari ini ngak chat kamu 😓",
+        "Type": "continue",
+        "imgsrc": "https://i.pinimg.com/originals/17/a9/46/17a946921da91360e395d666e9813258.gif"
+    },
+    "3": {
+        "Title": "Baca Ini",
+        "Text": "Kalo Kamu Kesepian Udah Chat Aku aja. Gpp Kok:)",
+        "Type": "continue",
+        "imgsrc": "https://i.pinimg.com/originals/19/14/e1/1914e17788de73ac8423e983105c54c1.gif"
+    },
+    "4": {
+        "Title": "Sekali Lagi",
+        "Text": "Maafin Aku yah🥺",
+        "Type": "continue",
+        "imgsrc": "https://media.tenor.com/LaoFm54TGSUAAAAM/mimi-bubu.gif"
+    },
+    "5": {
+        "Title": "Makasih udah mau bukain yaa><",
+        "Text": "I LOVE YOU ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️, kalau mau balas, klik Kirim, Jika ngak mau balas klik Close.",
+        "Type": "send",
+        "imgsrc": "https://i.pinimg.com/originals/ed/4e/bb/ed4ebb9e70230d2daee1f341f592d595.gif",
+        "link": "https://wa.me/+6289653540468"
+    }
+}
